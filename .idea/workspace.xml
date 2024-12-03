@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bcc5be9-5a85-4b10-bddb-9413de7499c1" name="Changes" comment="" />
+    <list default="true" id="9bcc5be9-5a85-4b10-bddb-9413de7499c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tic-tac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,14 +51,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.moduie_2_5.executor": "Run",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
     "Python.module_2_5.executor": "Run",
     "Python.self-work_debug.executor": "Run",
+    "Python.tic-tac.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/! Python_Разработчик/Практические задания/pythonProject",
     "settings.editor.selected.configurable": "preferences.externalTools"
   }
 }]]></component>
